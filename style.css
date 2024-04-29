@@ -75,7 +75,6 @@ a{
 	flex-wrap: wrap;
 	justify-content: space-evenly;
 	align-item: center;
-	position: static;
 }
 .c1 {
 	display: flex;
@@ -131,7 +130,6 @@ a{
 	letter-spacing: 1px;
 	line-height: 1.6;
 	word-break: keep-all;
-	position: relative;
 	background: linear-gradient(lemonchiffon, lightcyan);
 	width: 600px; 
 	height: 900px;
@@ -152,7 +150,6 @@ a{
 	letter-spacing: 1px;
 	line-height: 1.6;
 	word-break: keep-all;
-	position: relative;
 	background: linear-gradient(lemonchiffon, lightcyan);
 	width: 600px; 
 	height: 900px;
@@ -173,7 +170,6 @@ a{
 	letter-spacing: 1px;
 	line-height: 1.6;
 	word-break: keep-all;
-	position: relative;
 	background: linear-gradient(lemonchiffon, lightcyan);
 	width: 600px; 
 	height: 900px;
@@ -194,7 +190,6 @@ a{
 	letter-spacing: 1px;
 	line-height: 1.6;
 	word-break: keep-all;
-	position: relative;
 	background: linear-gradient(lemonchiffon, lightcyan);
 	width: 600px; 
 	height: 900px;
@@ -215,7 +210,6 @@ a{
 	letter-spacing: 1px;
 	line-height: 1.6;
 	word-break: keep-all;
-	position: relative;
 	background: linear-gradient(lemonchiffon, lightcyan);
 	width: 600px; 
 	height: 900px;
@@ -236,7 +230,6 @@ a{
 	letter-spacing: 1px;
 	line-height: 1.6;
 	word-break: keep-all;
-	position: relative;
 	background: linear-gradient(lemonchiffon, lightcyan);
 	width: 600px; 
 	height: 900px;
@@ -257,7 +250,6 @@ a{
 	letter-spacing: 1px;
 	line-height: 1.6;
 	word-break: keep-all;
-	position: relative;
 	background: linear-gradient(lemonchiffon, lightcyan);
 	width: 600px; 
 	height: 900px;
@@ -278,7 +270,6 @@ a{
 	letter-spacing: 1px;
 	line-height: 1.6;
 	word-break: keep-all;
-	position: relative;
 	background: linear-gradient(lemonchiffon, lightcyan);
 	width: 600px; 
 	height: 900px;
@@ -299,7 +290,6 @@ a{
 	letter-spacing: 1px;
 	line-height: 1.6;
 	word-break: keep-all;
-	position: relative;
 	background: linear-gradient(lemonchiffon, lightcyan);
 	width: 600px; 
 	height: 900px;
@@ -320,7 +310,6 @@ a{
 	letter-spacing: 1px;
 	line-height: 1.6;
 	word-break: keep-all;
-	position: relative;
 	background: linear-gradient(lemonchiffon, lightcyan);
 	width: 600px; 
 	height: 900px;
