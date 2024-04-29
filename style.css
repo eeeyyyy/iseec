@@ -1,6 +1,6 @@
 *{
-	padding: 5px;
-	margin: 10px;
+	padding: 0px;
+	margin: 0px;
 }
 @media screen and (max-width:900px) {
 .q1 {
@@ -69,12 +69,6 @@ a{
 	height: 50px;
 	border-radius: 100px;
 	box-shadow: 5px 5px 15px 1px #114595;
-}
-.y3 {
-	display: flex;
-	flex-wrap: wrap;
-	justify-content: space-evenly;
-	align-item: center;
 }
 .c1 {
 	display: flex;
