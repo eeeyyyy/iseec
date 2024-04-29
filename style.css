@@ -334,3 +334,12 @@ a{
 img {
 	width height: 20px;
 }
+@media screen and (max-width:900px) {
+	.c1 {
+		top: 210px;
+		left: 80px;
+	}
+	.c2 {
+		top: 510px;
+		left: 80px;
+	}
