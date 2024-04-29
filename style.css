@@ -1,6 +1,6 @@
 *{
-	padding: 0px;
-	margin: 0px;
+	padding: 5px;
+	margin: 10px;
 }
 @media screen and (max-width:900px) {
 .q1 {
@@ -33,9 +33,10 @@ header {
 }
 .cyw {
 	display: flex;
-	flex-direction: row;
+	flex-direction: column;
+	justify-content: space-evenly;
+	align-item: center;
 	flex-wrap: wrap;
-	
 	width: 300px 20vw; 
 	height: 40px 20vh;
 	border-radius: 100px;
@@ -103,6 +104,8 @@ a{
 li {
 	list-style: none;
 	width: 400px;
+	align-items: center;
+	justify-content: space-evenly;
 }
 a{
 	color: ;
@@ -114,9 +117,9 @@ a{
 .design {
 	background: linear-gradient(navy, cyan);
 }
-.l1 {
+section {
 	display: flex;
-	flex-wrap: wrap;
+	flex-wrap: nowrap;
 	justify-content: space-evenly;
 	align-item: center;
 	flex-direction: column;
@@ -134,180 +137,45 @@ a{
 	text-orientation:upringht;
 	flex-wrap: nowrap;
 }
-.l2 {
-	display: flex;
-	flex-wrap: wrap;
-	justify-content: space-evenly;
-	align-item: center;
-	flex-direction: column;
-	border: 2px dotted black;
-	letter-spacing: 1px;
-	line-height: 1.6;
-	word-break: keep-all;
-	background: linear-gradient(lemonchiffon, lightcyan);
-	width: 600px; 
-	height: 900px;
-	border-radius: 20px;
-}
 .t2 {
 	writing-mode: vertical-lr;
 	text-orientation:upringht;
 	flex-wrap: nowrap;
-}
-.l3 {
-	display: flex;
-	flex-wrap: wrap;
-	justify-content: space-evenly;
-	align-item: center;
-	flex-direction: column;
-	border: 2px dotted black;
-	letter-spacing: 1px;
-	line-height: 1.6;
-	word-break: keep-all;
-	background: linear-gradient(lemonchiffon, lightcyan);
-	width: 600px; 
-	height: 900px;
-	border-radius: 20px;
 }
 .t3 {
 	writing-mode: vertical-lr;
 	text-orientation:upringht;
 	flex-wrap: nowrap;
 }
-.l4 {
-	display: flex;
-	flex-wrap: wrap;
-	justify-content: space-evenly;
-	align-item: center;
-	flex-direction: column;
-	border: 2px dotted black;
-	letter-spacing: 1px;
-	line-height: 1.6;
-	word-break: keep-all;
-	background: linear-gradient(lemonchiffon, lightcyan);
-	width: 600px; 
-	height: 900px;
-	border-radius: 20px;
-}
 .t4 {
 	writing-mode: vertical-lr;
 	text-orientation:upringht;
 	flex-wrap: nowrap;
-}
-.l5 {
-	display: flex;
-	flex-wrap: wrap;
-	justify-content: space-evenly;
-	align-item: center;
-	flex-direction: column;
-	border: 2px dotted black;
-	letter-spacing: 1px;
-	line-height: 1.6;
-	word-break: keep-all;
-	background: linear-gradient(lemonchiffon, lightcyan);
-	width: 600px; 
-	height: 900px;
-	border-radius: 20px;
 }
 .t5 {
 	writing-mode: vertical-lr;
 	text-orientation:upringht;
 	flex-wrap: nowrap;
 }
-.l6 {
-	display: flex;
-	flex-wrap: wrap;
-	justify-content: space-evenly;
-	align-item: center;
-	flex-direction: column;
-	border: 2px dotted black;
-	letter-spacing: 1px;
-	line-height: 1.6;
-	word-break: keep-all;
-	background: linear-gradient(lemonchiffon, lightcyan);
-	width: 600px; 
-	height: 900px;
-	border-radius: 20px;
-}
 .t6 {
 	writing-mode: vertical-lr;
 	text-orientation:upringht;
 	flex-wrap: nowrap;
-}
-.l7 {
-	display: flex;
-	flex-wrap: wrap;
-	justify-content: space-evenly;
-	align-item: center;
-	flex-direction: column;
-	border: 2px dotted black;
-	letter-spacing: 1px;
-	line-height: 1.6;
-	word-break: keep-all;
-	background: linear-gradient(lemonchiffon, lightcyan);
-	width: 600px; 
-	height: 900px;
-	border-radius: 20px;
 }
 .t7 {
 	writing-mode: vertical-lr;
 	text-orientation:upringht;
 	flex-wrap: nowrap;
 }
-.l8 {
-	display: flex;
-	flex-wrap: wrap;
-	justify-content: space-evenly;
-	align-item: center;
-	flex-direction: column;
-	border: 2px dotted black;
-	letter-spacing: 1px;
-	line-height: 1.6;
-	word-break: keep-all;
-	background: linear-gradient(lemonchiffon, lightcyan);
-	width: 600px; 
-	height: 900px;
-	border-radius: 20px;
-}
 .t8 {
 	writing-mode: vertical-lr;
 	text-orientation:upringht;
 	flex-wrap: nowrap;
 }
-.l9 {
-	display: flex;
-	flex-wrap: wrap;
-	justify-content: space-evenly;
-	align-item: center;
-	flex-direction: column;
-	border: 2px dotted black;
-	letter-spacing: 1px;
-	line-height: 1.6;
-	word-break: keep-all;
-	background: linear-gradient(lemonchiffon, lightcyan);
-	width: 600px; 
-	height: 900px;
-	border-radius: 20px;
-}
 .t9 {
 	writing-mode: vertical-lr;
 	text-orientation:upringht;
 	flex-wrap: nowrap;
-}
-.l10 {
-	display: flex;
-	flex-wrap: wrap;
-	justify-content: space-evenly;
-	align-item: center;
-	flex-direction: column;
-	border: 2px dotted black;
-	letter-spacing: 1px;
-	line-height: 1.6;
-	word-break: keep-all;
-	background: linear-gradient(lemonchiffon, lightcyan);
-	width: 600px; 
-	height: 900px;
-	border-radius: 20px;
 }
 .t10 {
 	writing-mode: vertical-lr;
